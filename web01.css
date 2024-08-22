@@ -1,0 +1,16 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #651b1b;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+
+
